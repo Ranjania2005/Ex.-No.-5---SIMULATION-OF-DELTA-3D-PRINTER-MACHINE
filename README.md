@@ -29,7 +29,10 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
-## Output:
+## Output:![WhatsApp Image 2023-11-21 at 18 40 34_6d3f1570](https://github.com/Ranjania2005/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151624950/791a66f0-646f-4d68-b288-a87697560655)
+![WhatsApp Image 2023-11-21 at 18 40 12_c53d24cb](https://github.com/Ranjania2005/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151624950/487e10cd-1127-4660-bbcc-19d315bd928f)
+
+![WhatsApp Image 2023-11-21 at 18 39 30_8c8809ea](https://github.com/Ranjania2005/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151624950/dfc4c660-2e27-48d4-9c38-67d968281c55)
 
 ### Name:
 ### Register Number:
